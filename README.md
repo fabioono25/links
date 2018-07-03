@@ -19,9 +19,16 @@ https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-pro
 ### Big-O Notation
 
 https://www.youtube.com/watch?v=__vX2sjlpXU&vl=pt
+http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 
 - Simplify analysis of an algorithm's efficiency;
 - Types of measurement (worst, best, average case);
+- O(1)/Constant Complexity: constant time - irrelevant of the size of the data - Queue;
+- O(log n)/Logarithmic Complexity: grows but not proportionately;
+- O(n)/Linear Complexity: time taken grows proportionately;
+- O(n log n): Logarithmic + Linear, normally there's 2 parts of the sort;
+- O(n^2)/Quadratic Complexity: extra slow
+- O(2^n)/Exponential Growth: algorithm takes twice as long for every new element added;
 - O(1) -> O(n) -> O(n^2)
 
 ![](https://github.com/fabioono25/links/blob/master/images/bigO_complexity.PNG)
