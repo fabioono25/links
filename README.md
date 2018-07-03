@@ -14,3 +14,10 @@ https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-pro
 - Option
 - Either (validações garantidas por design)
 - Functions (funções com implementações concretas ao invés de classes)
+
+### Big-O Notation
+
+- Simplify analysis of an algorithm's efficiency;
+- Types of measurement (worst, best, average case);
+- O(1) -> O(n) -> O(n^2)
+
