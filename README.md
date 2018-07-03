@@ -1,4 +1,3 @@
-# links
 A List of Interesting Links of Varios Themes
 
 ### Functional Programming
@@ -17,7 +16,10 @@ https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-pro
 
 ### Big-O Notation
 
+https://www.youtube.com/watch?v=__vX2sjlpXU&vl=pt
+
 - Simplify analysis of an algorithm's efficiency;
 - Types of measurement (worst, best, average case);
 - O(1) -> O(n) -> O(n^2)
 
+![](https://github.com/fabioono25/links/blob/master/images/bigO_complexity.PNG)
