@@ -24,11 +24,12 @@ http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 - Simplify analysis of an algorithm's efficiency;
 - Types of measurement (worst, best, average case);
 - O(1)/Constant Complexity: constant time - irrelevant of the size of the data - Queue;
-- O(log n)/Logarithmic Complexity: grows but not proportionately;
-- O(n)/Linear Complexity: time taken grows proportionately;
-- O(n log n): Logarithmic + Linear, normally there's 2 parts of the sort;
-- O(n^2)/Quadratic Complexity: extra slow
+- O(log n)/Logarithmic Complexity: grows but not proportionately - Binary Search;
+- O(n)/Linear Complexity: time taken grows proportionately - LinkedList finding some element;
+- O(n log n): Logarithmic + Linear, normally there's 2 parts of the sort - merge sort;
+- O(n^2)/Quadratic Complexity: extra slow - Bubble Sort;
 - O(2^n)/Exponential Growth: algorithm takes twice as long for every new element added;
 - O(1) -> O(n) -> O(n^2)
 
 ![](https://github.com/fabioono25/links/blob/master/images/bigO_complexity.PNG)
+
