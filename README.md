@@ -1,4 +1,6 @@
-A List of Interesting Links of Varios Themes
+Table of Contents
+* [Functional Programming](#functional-programming)
+* [Big-O Notation](#big-o-notation)
 
 ### Functional Programming
 
