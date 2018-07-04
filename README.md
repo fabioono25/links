@@ -19,6 +19,7 @@ https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-pro
 ### Big-O Notation
 
 https://www.youtube.com/watch?v=__vX2sjlpXU&vl=pt
+
 http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 
 - Simplify analysis of an algorithm's efficiency;
