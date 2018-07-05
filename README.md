@@ -2,6 +2,8 @@ Table of Contents
 * [Functional Programming](#functional-programming)
 * [Hexagonal Architecture Pattern](#hexagonal-architecture-pattern)
 * [Big-O Notation](#big-o-notation)
+* [Searching Techniques](#searching-techniques)
+  * [Linear Search](#linear-search)
 
 ### Functional Programming
 
@@ -49,3 +51,15 @@ http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 ![](https://github.com/fabioono25/links/blob/master/images/bigO_complexity.PNG)
 
 ![List of Some Common Asymptotic Notations](https://github.com/fabioono25/links/blob/master/images/Asymptotic_notations.PNG)
+
+### Searching Techniques
+
+##### Linear Search
+
+In this type of search, a sequential search is made over all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.
+
+Linear search has O(N) complexity.
+
+![](https://github.com/fabioono25/study/blob/master/images/linear_search.gif)
+
+
