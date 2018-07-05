@@ -1,6 +1,6 @@
 Table of Contents
 * [Functional Programming](#functional-programming)
-* [Hexagonal Architecture Pattern](#hexagonal-architecture)
+* [Hexagonal Architecture Pattern](#hexagonal-architecture-pattern)
 * [Big-O Notation](#big-o-notation)
 
 ### Functional Programming
