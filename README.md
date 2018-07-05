@@ -24,8 +24,11 @@ https://staging.cockburn.us/hexagonal-architecture/
 - Avoid business logic into user interface (system can't be tested properly)
 - Highly tied between logic and external entities (front/database) cause problems
 - Rule: code pertaining to the "inside" part shout no leak into the "outside" part
-- 
-- 
+- API: purpose of conversation between two devices
+- Adapter: provides a way to convert API definition to the signals needed by the device and vice versa
+- Test adapters, HTTP adapters, GUI adapters (user-side API - port)
+
+![](https://github.com/fabioono25/study/blob/master/images/Hexagonal-architecture-complex-example.gif)
 
 ### Big-O Notation
 
