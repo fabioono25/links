@@ -3,6 +3,7 @@ Table of Contents
 * [Hexagonal Architecture Pattern](#hexagonal-architecture-pattern)
 * [Big-O Notation](#big-o-notation)
 * [Searching Techniques](#searching-techniques)
+  * [Linear Search](#linear-search)
 
 ### Functional Programming
 
