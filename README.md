@@ -1,5 +1,6 @@
 Table of Contents
 * [Functional Programming](#functional-programming)
+* [Hexagonal Architecture Pattern](#hexagonal-architecture)
 * [Big-O Notation](#big-o-notation)
 
 ### Functional Programming
@@ -8,13 +9,23 @@ Software sem bugs, reduzindo falhas em produção com práticas de programação
 https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-producao-com-programacao-funcional?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 
 - Abordagem declarativa vs imperativa
-- Imutabilidade (vantagens na programação paralela)
-- Caching Intensivo
+- Immutability (vantagens na programação paralela)
+- Intensive Caching
 - High-order functions
 - Lazyness
 - Option
 - Either (validações garantidas por design)
 - Functions (funções com implementações concretas ao invés de classes)
+
+### Hexagonal Architecture Pattern
+https://staging.cockburn.us/hexagonal-architecture/
+![](https://github.com/fabioono25/study/blob/master/images/hexagonal_architecture.jpg)
+
+- Avoid business logic into user interface (system can't be tested properly)
+- Highly tied between logic and external entities (front/database) cause problems
+- Rule: code pertaining to the "inside" part shout no leak into the "outside" part
+- 
+- 
 
 ### Big-O Notation
 
