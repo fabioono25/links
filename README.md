@@ -58,6 +58,8 @@ http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 
 In this type of search, a sequential search is made over all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data collection.
 
+Linear search has O(N) complexity.
+
 ![](https://github.com/fabioono25/study/blob/master/images/linear_search.gif)
 
 
