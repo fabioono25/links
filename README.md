@@ -4,6 +4,7 @@ Table of Contents
 * [Big-O Notation](#big-o-notation)
 * [Searching Techniques](#searching-techniques)
   * [Linear Search](#linear-search)
+  * [Binary Search](#binary-search)
 
 ### Functional Programming
 
@@ -62,4 +63,12 @@ Linear search has O(N) complexity.
 
 ![](https://github.com/fabioono25/study/blob/master/images/linear_search.gif)
 
+
+##### Binary Search
+
+With this strategy, the target value is compared with de middle element of a SORTED array. This means a gain of performance.
+
+Binary search has a O(log n) complexity running time.
+
+![](https://github.com/fabioono25/study/blob/master/images/binarySearch.gif)
 
