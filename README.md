@@ -5,6 +5,13 @@ Table of Contents
 * [Searching Techniques](#searching-techniques)
   * [Linear Search](#linear-search)
   * [Binary Search](#binary-search)
+* [Sorting Algorithms](#searching-algorithms)
+  * [Merge Sort](#merge-sort)
+  * [Insertion Sort](#insertion-sort)  
+  * [Bubble Sort](#bubble-sort)    
+  * [Quick Sort](#quick-sort)    
+  * [Heap Sort](#heap-sort)      
+  * [Counting Sort](#counting-sort)      
 
 ### Functional Programming
 
@@ -72,3 +79,45 @@ Binary search has a O(log n) complexity running time.
 
 ![](https://github.com/fabioono25/study/blob/master/images/binarySearch.gif)
 
+### Sorting Algorithms
+
+![](https://github.com/fabioono25/study/blob/master/images/sorting_algorithms.PNG)
+
+##### Merge Sort
+
+https://brilliant.org/wiki/merge/
+
+![](https://github.com/fabioono25/study/blob/master/images/merge_sort.gif)
+
+##### Insertion Sort
+
+https://brilliant.org/wiki/insertion/
+
+![](https://github.com/fabioono25/study/blob/master/images/insertion_sort.gif)
+
+##### Bubble Sort
+
+https://brilliant.org/wiki/bubble-sort/
+
+![](https://github.com/fabioono25/study/blob/master/images/bubble_sort.gif)
+
+##### Quick Sort
+
+https://brilliant.org/wiki/quick-sort/
+
+![](https://github.com/fabioono25/study/blob/master/images/quick_sort.gif)
+
+##### Heap Sort
+
+https://brilliant.org/wiki/heap-sort/
+
+![](https://github.com/fabioono25/study/blob/master/images/heap_sort.gif)
+
+##### Counting Sort
+
+https://brilliant.org/wiki/counting-sort/
+
+![](https://github.com/fabioono25/study/blob/master/images/counting_sort.gif)
+  
+
+  
