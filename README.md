@@ -87,7 +87,10 @@ Binary search has a O(log n) complexity running time.
 
 https://brilliant.org/wiki/merge/
 
+Is a comparison-based algorithm that focuses on how to merge together two pre-sorted arrays such that the resulting array is also sorted.
+
 ![](https://github.com/fabioono25/study/blob/master/images/merge_sort.gif)
+![](https://github.com/fabioono25/study/blob/master/images/Merge-Sort.png)
 
 ##### Insertion Sort
 
