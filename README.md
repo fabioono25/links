@@ -15,8 +15,8 @@ Table of Contents
 
 ### Functional Programming
 
-Software sem bugs, reduzindo falhas em produção com práticas de programação funcional (em C#) - Elemar Junior
-https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-producao-com-programacao-funcional?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+[Software sem bugs, reduzindo falhas em produção com práticas de programação funcional (em C#) - Elemar Junior]
+(https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-producao-com-programacao-funcional?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)
 
 - Abordagem declarativa vs imperativa
 - Immutability (vantagens na programação paralela)
@@ -28,6 +28,7 @@ https://www.infoq.com/br/presentations/software-sem-bugs-reduzindo-falhas-em-pro
 - Functions (funções com implementações concretas ao invés de classes)
 
 ### Hexagonal Architecture Pattern
+
 https://staging.cockburn.us/hexagonal-architecture/
 ![](https://github.com/fabioono25/study/blob/master/images/hexagonal_architecture.jpg)
 
@@ -42,11 +43,13 @@ https://staging.cockburn.us/hexagonal-architecture/
 
 ### Big-O Notation
 
+[Big O Notation with Gayle Laakmann McDowell](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+
 [Big-O notation in 5 minutes — The basics](https://www.youtube.com/watch?v=__vX2sjlpXU&vl=pt)
 
 http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 
-
+![](https://github.com/fabioono25/links/blob/master/images/big_o.PNG)
 
 - Simplify analysis of an algorithm's efficiency;
 - Types of measurement (worst, best, average case);
