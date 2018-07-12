@@ -42,7 +42,7 @@ https://staging.cockburn.us/hexagonal-architecture/
 
 ### Big-O Notation
 
-![Big-O notation in 5 minutes — The basics](https://www.youtube.com/watch?v=__vX2sjlpXU&vl=pt)
+[Big-O notation in 5 minutes — The basics](https://www.youtube.com/watch?v=__vX2sjlpXU&vl=pt)
 
 http://www.corejavainterviewquestions.com/idiots-guide-big-o/
 
