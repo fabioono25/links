@@ -12,6 +12,7 @@ Table of Contents
   * [Quick Sort](#quick-sort)    
   * [Heap Sort](#heap-sort)      
   * [Counting Sort](#counting-sort)      
+* [Authentication and Authorization](#authentication-and-authorization)
 
 ### Functional Programming
 
@@ -128,4 +129,13 @@ https://brilliant.org/wiki/counting-sort/
 ![](https://github.com/fabioono25/study/blob/master/images/counting_sort.gif)
   
 
-  
+### Authentication and Authorization
+
+- ![Authentication](https://stackoverflow.com/questions/6556522/authentication-versus-authorization): the mechanism determines the user's identity before revealing the sensitive information. With this process it's possible validation of the identity of a registered user who is accessing a service or application; 
+- ![Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html): this process ensures that an authenticated user has the necessary privileges to access a specific resource or operation within an application
+
+![](https://github.com/fabioono25/study/blob/master/images/authenticationAuthorization.jpg)
+
+![](https://github.com/fabioono25/study/blob/master/images/jwt.jpg)
+
+
