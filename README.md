@@ -131,8 +131,8 @@ https://brilliant.org/wiki/counting-sort/
 
 ### Authentication and Authorization
 
-- ![Authentication](https://stackoverflow.com/questions/6556522/authentication-versus-authorization): the mechanism determines the user's identity before revealing the sensitive information. With this process it's possible validation of the identity of a registered user who is accessing a service or application; 
-- ![Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html): this process ensures that an authenticated user has the necessary privileges to access a specific resource or operation within an application
+- [Authentication](https://stackoverflow.com/questions/6556522/authentication-versus-authorization): the mechanism determines the user's identity before revealing the sensitive information. With this process it's possible validation of the identity of a registered user who is accessing a service or application; 
+- [Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html): this process ensures that an authenticated user has the necessary privileges to access a specific resource or operation within an application
 
 ![](https://github.com/fabioono25/study/blob/master/images/authenticationAuthorization.jpg)
 
